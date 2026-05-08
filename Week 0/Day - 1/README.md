@@ -4,10 +4,11 @@
 
 # 📝 Problem Summary
 
-The goal of Day 1 is to establish the theoretical and practical foundation of Salesforce and Customer Relationship Management (CRM).  
+The goal of Day 1 is to establish the theoretical and practical foundation of Salesforce and Customer Relationship Management (CRM).
 This includes understanding the Salesforce ecosystem, Salesforce products, CRM concepts, and the Salesforce data model used for managing customer relationships and business operations.
-
 Additionally, a simple College Admission Management workflow was explored using Salesforce standard CRM objects.
+
+📌 Along with this, detailed learning notes and screenshots have been maintained in this repository for reference and revision purposes.
 
 ---
 
@@ -29,11 +30,57 @@ Learned Salesforce Objects, Records, and Fields along with standard objects such
 Explored the Salesforce interface, Trailhead platform, and Salesforce Playground environment for hands-on learning and practice.
 
 ### Hands-On CRM Workflow
-Implemented a simple College Admission Management workflow using Salesforce standard objects:
+Implemented a simple College Admission Management workflow using Salesforce standard objects
+
+---
+
+# 📘 1. What is CRM?
+
+Customer Relationship Management (CRM) is a system used to manage a company’s interactions with current and potential customers.
+It helps organizations store customer data, track communication, manage sales processes, and improve customer relationships.
+CRM ensures better organization, faster decision-making, and improved customer satisfaction.
+
+# 🏢 2. Why Companies Use Salesforce?
+
+Companies use Salesforce because it provides:
+- Cloud-based CRM platform (no installation required)
+- Centralized customer data management
+- Automation of sales and business processes
+- Better tracking of leads, contacts, and opportunities
+- Real-time reporting and dashboards
+- Improved customer service and engagement
+- Scalable solution for all business sizes
+Salesforce helps organizations increase productivity and make data-driven decisions.
+
+# 📊 3. Salesforce Core Objects
+
+### 📌 Lead
+A Lead represents a potential customer or enquiry who has shown interest in a product or service but is not yet qualified.
+It is the starting point of the Salesforce sales process.
+
+### 📌 Account
+An Account represents a company, organization, or institution that a business deals with.
+
+### 📌 Contact
+A Contact represents an individual person associated with an Account.
+
+### 📌 Opportunity
+An Opportunity represents a potential business deal or process, such as a sale or admission.
+
+### 🔁 CRM Flow
+Lead → Account / Contact → Opportunity
+
+---
+
+# 📊 Real-World Mapping (College Admission Workflow)
+
+I implemented a simple College Admission Management system using Salesforce objects:
 - Lead → Student enquiry
 - Contact → Registered student
 - Account → Department
 - Opportunity → Admission process
+  
+This helped in understanding how real business processes are mapped in Salesforce CRM.
 
 ---
 
@@ -59,14 +106,25 @@ Understanding the real-time CRM flow using Lead → Contact → Account → Oppo
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
-- Home & App launcher.png
-- Leads.png
-- Leads-conversion.png
-- Contacts.png
-- Opportunities.png
-- Accounts.png
+### Sales App Home & App Launcher
+![Home & App Launcher](./Screenshots/Home%20%26%20App%20Launcher.png)
+
+### Account Records
+![Accounts](./Screenshots/Accounts.png)
+
+### Contact Records
+![Contacts](./Screenshots/Contacts.png)
+
+### Lead Records
+![Leads](./Screenshots/Leads.png)
+
+### Leads Conversion
+![Leads Conversion](./Screenshots/Leads%20-%20Conversion.png)
+
+### Opportunity Records
+![Opportunities](./Screenshots/Opportunities.png)
 
 ---
 
@@ -80,3 +138,9 @@ Understanding the real-time CRM flow using Lead → Contact → Account → Oppo
 - Understood Salesforce core values and the concept of business as a platform for change.
 - Explored Salesforce standard CRM objects through a College Admission Management workflow.
 - Practiced lead creation, lead conversion, contact management, and opportunity tracking in Salesforce.
+
+---
+
+# ✅ Final Outcome
+
+Successfully understood and implemented basic Salesforce CRM concepts through both theoretical learning and hands-on practice in Trailhead and Salesforce Playground.
