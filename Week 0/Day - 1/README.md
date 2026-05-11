@@ -2,7 +2,7 @@
 
 ---
 
-# 📝 Problem Summary
+# 📝 Summary
 
 The goal of Day 1 is to establish the theoretical and practical foundation of Salesforce and Customer Relationship Management (CRM).
 This includes understanding the Salesforce ecosystem, Salesforce products, CRM concepts, and the Salesforce data model used for managing customer relationships and business operations.
