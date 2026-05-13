@@ -278,62 +278,28 @@ This is why enterprise platforms like Salesforce use structured relational data 
 # 📸 Screenshots
 
 ## Student Object Creation
-
-![Student Object Creation](screenshots/student-object-creation.png)
-
----
+![Student Object Creation](./Screenshots/student-object-creation.png)
 
 ## Course Object Creation
-
-![Course Object Creation](screenshots/course-object-creation.png)
-
----
+![Course Object Creation](./Screenshots/course-object-creation.png)
 
 ## Faculty Object Creation
-
-![Faculty Object Creation](screenshots/faculty-object-creation.png)
-
----
+![Faculty Object Creation](./Screenshots/faculty-object-creation.png)
 
 ## Department Object Creation
-
-![Department Object Creation](screenshots/department-object-creation.png)
-
----
+![Department Object Creation](./Screenshots/department-object-creation.png)
 
 ## Student Fields & Relationships
-
-![Student Fields](screenshots/student-fields-relationships.png)
-
----
+![Student Fields & Relationships](./Screenshots/student-fields-relationships.png)
 
 ## Course Fields & Relationships
+![Course Fields & Relationships](./Screenshots/course-fields-relationships.png)
 
-![Course Fields](screenshots/course-fields-relationships.png)
-
----
-
-## Faculty Fields & Relationships
-
-![Faculty Fields](screenshots/faculty-fields-relationships.png)
-
----
-
-## Department Fields & Relationships
-
-![Department Fields](screenshots/department-fields-relationships.png)
-
----
-
-## Lookup Relationship Creation
-
-![Lookup Relationship](screenshots/lookup-relationship.png)
-
----
+## Validation Rules
+![Validation Rules](./Screenshots/validation-rules.png)
 
 ## Schema Builder
-
-![Schema Builder](screenshots/schema-builder.png)
+![Schema Builder](./Screenshots/schema-builder.png)
 
 ---
 
