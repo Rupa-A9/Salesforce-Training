@@ -414,7 +414,7 @@ Automation is one of the most important aspects of modern enterprise software sy
 
 ## Complete Student Registration Automation Flow
 
-![Complete Flow](screenshots/complete-flow.png)
+![Complete Flow](./screenshots/complete-flow.png)
 
 ---
 
