@@ -364,13 +364,13 @@ Apex helps Salesforce developers build enterprise-grade solutions that go beyond
 
 # Screenshots
 
-* Apex Class Creation
-* EnrollmentHandler Execution
-* AttendanceHandler Execution
-* Execute Anonymous Window
-* Debug Log Output
-* SOQL Query Practice
-* SOSL Query Practice
+## Enrollment Handler Apex Class
+
+![Enrollment Handler](Screenshots/enrollment-handler.png)
+
+## Attendance Handler Apex Class
+
+![Attendance Handler](Screenshots/attendance-handler.png)
 
 ---
 
