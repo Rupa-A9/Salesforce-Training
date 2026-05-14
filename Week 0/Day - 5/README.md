@@ -366,7 +366,7 @@ Apex helps Salesforce developers build enterprise-grade solutions that go beyond
 
 ## Enrollment Handler Apex Class
 
-![Enrollment Handler](Screenshots/enrollment-handler.png)
+![Enrollment Handler](Screenshots/enrollement-handler.png)
 
 ## Attendance Handler Apex Class
 
