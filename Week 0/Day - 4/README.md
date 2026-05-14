@@ -6,7 +6,7 @@ The goal of Day 4 was to understand how Salesforce automates enterprise business
 
 The focus was on learning how businesses reduce repetitive manual work using Salesforce Flows, automation logic, record-triggered processes, actions, and workflow-based decision making.
 
-A College Management System was again used as a real-world example to design automation workflows and understand how enterprise systems improve productivity, consistency, and operational efficiency.
+A College Management System was used as a real-world example to design automation workflows and understand how enterprise systems improve productivity, consistency, and operational efficiency.
 
 ---
 
@@ -87,7 +87,7 @@ Runs automatically through buttons, APIs, or other automations.
 
 ### Example
 
-* Generate student ID card automatically
+* Generate student ID automatically
 * Create onboarding tasks automatically
 
 ---
@@ -129,7 +129,7 @@ Connect elements and define the execution path.
 
 Store data used inside flows.
 
-Examples:
+### Examples
 
 * Variables
 * Formulas
@@ -184,8 +184,9 @@ Retrieves Salesforce data for automation logic.
 
 ### Example
 
-* Check if duplicate student already exists
-* Retrieve faculty information
+* Check course seat availability
+* Retrieve student information
+* Get faculty details
 
 ---
 
@@ -201,7 +202,7 @@ Deletes records automatically.
 
 Salesforce Flows can make business decisions automatically.
 
-## Example
+### Example
 
 If:
 
@@ -287,7 +288,7 @@ Automatically remind students before fee deadlines.
 
 ## Selected Process
 
-### Auto Update Remaining Seats
+Auto Update Remaining Seats
 
 ---
 
@@ -411,55 +412,9 @@ Automation is one of the most important aspects of modern enterprise software sy
 
 # 📸 Screenshots
 
-## Flow Builder Interface
+## Complete Student Registration Automation Flow
 
-Flow Builder Interface
-
-## Record-Triggered Flow
-
-Record-Triggered Flow
-
-## Screen Flow
-
-Screen Flow
-
-## Variables and Resources
-
-Variables and Resources
-
-## Create Records Element
-
-Create Records Element
-
-## Update Records Element
-
-Update Records Element
-
-## Get Records Element
-
-Get Records Element
-
-## Action Element
-
-Action Element
-
----
-
-# 🎥 Learning Resources Completed
-
-## Trailhead Modules
-
-* Flow Builder Basics
-* Data and Actions in Flows
-
----
-
-## Video Topics Covered
-
-* Introduction to Flow Builder
-* Record-Triggered Flows
-* Automation Concepts
-* Business Workflow Automation
+![Complete Flow](screenshots/complete-flow.png)
 
 ---
 
@@ -526,19 +481,18 @@ Automation performs tasks the same way every time, reducing mistakes and increas
 
 # 💡 Learnings
 
-* Understood Salesforce Flow Builder fundamentals.
-* Learned different types of Salesforce Flows.
-* Explored automation concepts in enterprise systems.
-* Learned how flows interact with Salesforce records.
-* Understood automation logic and decision making.
-* Explored no-code business process automation.
-* Understood differences between manual and automated workflows.
-* Learned how automation improves productivity and consistency.
-* Applied business analyst thinking to workflow design.
+* Understood Salesforce Flow Builder fundamentals
+* Learned different types of Salesforce Flows
+* Explored automation concepts in enterprise systems
+* Learned how flows interact with Salesforce records
+* Understood automation logic and decision making
+* Explored no-code business process automation
+* Understood differences between manual and automated workflows
+* Learned how automation improves productivity and consistency
+* Applied business analyst thinking to workflow design
 
 ---
 
 # ✅ Final Outcome
 
-Successfully understood Salesforce Flow Builder, business process automation, flow types, automation logic, record-based automation, and enterprise workflow optimization using real-world College Management System examples and Salesforce declarative automation tools.
-
+Successfully understood Salesforce Flow Builder, business process automation, flow types, automation logic, record-based automation, and enterprise workflow optimization using College Management System examples and Salesforce declarative automation tools.
