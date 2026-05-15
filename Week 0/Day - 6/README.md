@@ -437,9 +437,22 @@ Learned why developers use terminal-based workflows and automation tools.
 
 ---
 
-# One Doubt / Question
+# Doubt
 
 How can developers decide the best balance between declarative automation (Flows) and programmatic automation (Triggers) in large enterprise systems?
+
+---
+
+# Screenshots
+
+## Account Address Trigger
+![Account Address Trigger](Screenshots/Challenges/account-address-trigger.png)
+
+## Closed Opportunity Trigger
+![Closed Opportunity Trigger](Screenshots/Challenges/closed-opportunity-trigger.png)
+
+## Order Event Trigger
+![Order Event Trigger](Screenshots/Challenges/order-event-trigger.png)
 
 ---
 
