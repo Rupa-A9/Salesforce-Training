@@ -1,6 +1,6 @@
 # Day 6 – SOQL, Apex Triggers, Event-Driven Architecture & CLI
 
-## Problem Summary
+## Summary
 
 The goal of Day 6 was to understand how Salesforce handles data querying, automation, and event-driven system behavior using SOQL, Apex Triggers, Platform Events, and Salesforce developer tools like CLI.
 
@@ -443,15 +443,20 @@ How can developers decide the best balance between declarative automation (Flows
 
 ---
 
-# End of Day Outcome
+# Learnings
+- Understood how Salesforce stores and retrieves data using SOQL
+- Learned basics of database querying and record filtering
+- Explored Apex Triggers and how they automate actions based on events
+- Understood Before Trigger vs After Trigger behavior
+- Learned event-driven architecture and system communication model
+- Explored Platform Events and asynchronous communication between systems
+- Understood publisher–subscriber model in Salesforce
+- Learned difference between Flows (declarative) and Triggers (programmatic) automation
+- Explored basic enterprise search concepts for fast data retrieval
+- Understood Salesforce CLI, terminal usage, and developer tool setup
 
-By the end of Day 6, the following concepts were clearly understood:
+---
 
-* Salesforce data querying with SOQL
-* Event-driven system architecture
-* Apex Trigger automation
-* Platform Events and asynchronous communication
-* Declarative vs programmatic automation
-* Enterprise search systems
-* Salesforce CLI and developer tooling workflows
+# Final Outcome
+Successfully understood Salesforce data querying with SOQL, Apex Trigger automation, Platform Events, event-driven architecture, declarative vs programmatic automation, enterprise search systems, and Salesforce CLI workflow. Built a clear understanding of how enterprise systems react automatically to data changes and how developers use tools like CLI and VS Code for development.
 
