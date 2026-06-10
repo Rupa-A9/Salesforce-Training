@@ -1,6 +1,6 @@
 # Recruitment Management System
 
-## Salesforce Summer Program – Final Project Phase 2
+## Final Project Phase 2
 
 ---
 
