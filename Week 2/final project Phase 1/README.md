@@ -1,6 +1,6 @@
 # Recruitment Management System
 
-## Salesforce Summer Program – Final Integrated Mini Project (Phase 1)
+## Final Integrated Mini Project (Phase 1)
 
 ### Project Overview
 
